@@ -1,0 +1,110 @@
+{
+  "status": "ok",
+  "totalResults": 30,
+  "articles": [
+    {
+      "source": {
+        "id": "lenta",
+        "name": "Lenta"
+      },
+      "author": "Марина Совина",
+      "title": "Госдеп прокомментировал учения военных из США в Польше вблизи границы Украины - Lenta.ru",
+      "description": "В Госдепе прокомментировали учения военных из США в Польше вблизи границы Украины. В министерстве подчеркнули, что размещение сил НАТО всегда оборонительно и соразмерно. Также отмечается, что действия альянса не нацелены на провокацию конфликта, а наоборот — …",
+      "url": "https://lenta.ru/news/2022/02/21/ucheniya/",
+      "urlToImage": "https://icdn.lenta.ru/images/2022/02/21/02/20220221021728879/share_da3b05a43a8fa63955beeb210e7293b5.jpg",
+      "publishedAt": "2022-02-20T23:24:01Z",
+      "content": ". - .\r\n , . , , .\r\n, , , . , 18- 82- - . , , - , ."
+    },
+    {
+      "source": {
+        "id": "lenta",
+        "name": "Lenta"
+      },
+      "author": "Марина Совина",
+      "title": "Российский дипломат заявил об игнорировании Западом обострения в Донбассе - Lenta.ru",
+      "description": "Первый зампостпреда России при ООН Дмитрий Полянский заявил о том, что западные страны игнорируют обострение, которое сейчас происходит на востоке Украины. По его словам, Запад также отрицает, что Украина обстреливает Донбасс, подразумевая, что все, что там п…",
+      "url": "https://lenta.ru/news/2022/02/21/obostrenii/",
+      "urlToImage": "https://icdn.lenta.ru/images/2022/02/21/01/20220221015332178/share_7e92174d5ca8d09d3cd1d58482cd5c9b.jpg",
+      "publishedAt": "2022-02-20T23:04:00Z",
+      "content": ", , . Sputnik, .\r\n , , , , , . , . « , , », . , , .\r\n . « , », - .\r\n . . , «» .\r\n20 , . « , », . , «» .\r\n . . , ."
+    },
+    {
+      "source": {
+        "id": "lenta",
+        "name": "Lenta"
+      },
+      "author": "Ксения Назарова",
+      "title": "График Байдена изменился дважды за один день - Lenta.ru",
+      "description": "График президента США Джо Байдена был пересмотрен дважды за один день. Предполагалось, что День президентов, который отмечается в третий понедельник февраля, американский лидер проведет в Белом доме. Затем появилась информация, что он отправится в Уилмингтоне…",
+      "url": "https://lenta.ru/news/2022/02/21/biden_family/",
+      "urlToImage": "https://icdn.lenta.ru/images/2022/02/21/00/20220221005938161/share_5baa63f4eed1b6550cf87e6c22a32a92.jpg",
+      "publishedAt": "2022-02-20T22:22:41Z",
+      "content": ". - , .\r\n , , , , . , 20 , , - , . , .\r\n .\r\n , .\r\n . . , .\r\n20 , . « , », . , ."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ria.ru"
+      },
+      "author": "Никита Стома",
+      "title": "Макфол назвал 'необычным' предупреждение посольства США в Москве - РИА НОВОСТИ",
+      "description": "Бывший посол США в России Майкл Макфол в своем сообщении в Twitter назвал \"необычным\" содержание предупреждения американского диппредставительства в Москве о... РИА Новости, 21.02.2022",
+      "url": "https://ria.ru/20220221/preduprezhdenie-1773977660.html",
+      "urlToImage": "https://cdnn21.img.ria.ru/images/sharing/article/1773977660.jpg?9930163901645395486",
+      "publishedAt": "2022-02-20T22:18:24Z",
+      "content": "https://ria.ru/20220221/preduprezhdenie-1773977660.html\r\n Twitter \"\" ... , 21.02.2022\r\n/html/head/meta[@name='og:title']/@content\r\n/html/head/meta[@name='og:description']/@content\r\nhttps://cdnn21.img… [+585 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ria.ru"
+      },
+      "author": "Никита Стома",
+      "title": "Названы страны Европы с самым высоким уровнем безработицы - РИА НОВОСТИ",
+      "description": "Самая низкая безработица в Европе в конце 2021 года, как и годом ранее, зафиксирована в Чехии, самые высокие показатели — в Испании и Греции, а Россия за год... РИА Новости, 21.02.2022",
+      "url": "https://ria.ru/20220221/bezrabotitsa-1773975418.html",
+      "urlToImage": "https://cdnn21.img.ria.ru/images/sharing/article/1773975418.jpg?14797296071645394112",
+      "publishedAt": "2022-02-20T21:27:58Z",
+      "content": "https://ria.ru/20220221/bezrabotitsa-1773975418.html\r\n 2021 , , , , ... , 21.02.2022\r\n/html/head/meta[@name='og:title']/@content\r\n/html/head/meta[@name='og:description']/@content\r\nhttps://cdnn21.img.… [+2028 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gazeta.ru"
+      },
+      "author": null,
+      "title": "Джонсон заявил Макрону, что «обязательства» Путина говорят о готовности к дипломатии - Газета.Ru",
+      "description": "Премьер-министр Великобритании Борис Джонсон заявил президенту Франции Эммануэлю Макрону, что «обязательства» российского президента Владимира Путина говорят о готовности к дипломатическому решению по ситуации вокруг Украины. Об этом сообщается на официальном…",
+      "url": "https://www.gazeta.ru/politics/news/2022/02/21/17319817.shtml",
+      "urlToImage": "https://img.gazeta.ru/files3/881/14486881/2022-02-01T173830Z_1183434536_RC25BS9IOSL3_RTRMADP_3_UKRAINE-CRISIS-JOHNSON-pic_32ratio_900x600-900x600-91519.jpg",
+      "publishedAt": "2022-02-20T21:07:21Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sport-express.ru"
+      },
+      "author": "Игорь Рабинер",
+      "title": "Почему мы были обязаны выиграть Олимпиаду? У финнов тренер работает четыре года, у нас — меняется ка... - Спорт-Экспресс",
+      "description": "Рабинер — о сборных России, Финляндии и неутешительных тенденциях международного хоккея.",
+      "url": "https://www.sport-express.ru/olympics/beijing2022/hockey/reviews/olimpiada-2022-hokkey-pochemu-rossiya-proigrala-finlyandii-v-finale-olimpiyskih-igr-mnenie-rabinera-1894816/",
+      "urlToImage": "https://ss.sport-express.ru/userfiles/materials/176/1760867/large.jpg",
+      "publishedAt": "2022-02-20T21:00:00Z",
+      "content": ",  .    ,     .   ,     .       0:3  ,   0:1  .   1:2  .   ,   , .\r\n    ,     .   ,       .   ,     .   -,   !        .\r\n  ,   ,    -   .       ,   ,   ,   .\r\n , , , . , , - .    ,     ?       ,   . … [+2533 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Www.mk.ru"
+      },
+      "author": null,
+      "title": "В ЛНР заявили о скором наступлении украинских войск - Московский Комсомолец",
+      "description": "Народная милиция Луганской народной республики сообщила о масштабном обстреле территории ЛНР по всей линии соприкосновения",
+      "url": "https://www.mk.ru/politics/2022/02/20/v-lnr-zayavili-o-skorom-nastuplenii-ukrainskikh-voysk.html",
+      "urlToImage": "https://static.mk.ru/upload/entities/2022/02/20/22/articles/facebookPicture/a1/d0/45/7e/d88f7d93c938019e03c66696f643a110.jpg",
+      "publishedAt": "2022-02-20T19:36:56Z",
+      "content": null
+    }
+  ]
+}
