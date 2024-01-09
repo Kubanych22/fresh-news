@@ -11,6 +11,8 @@ export const showFoundNews = (err, data, params) => {
   }
   const query = params.split('&')[0].slice(3);
   const main = document.querySelector('.main');
+  const section = document.createElement('section');
+  section.classList.add('search');
   const h1 = document.createElement('h1');
   h1.classList.add('main__title');
   h1.textContent = `По вашему запросу \"${query}\" найдено ${data.totalResults} `
@@ -26,9 +28,12 @@ export const showFoundNews = (err, data, params) => {
   headlines.append(renderArticles(news));
   
   container.append(headlines);
-  const line = document.createElement('div');
+  let line = document.createElement('div');
   line.classList.add('line');
-  main.prepend(h1, line, container);
+  section.append(h1, line, container);
+  line = document.createElement('div');
+  line.classList.add('line');
+  main.prepend(section, line);
 };
 
 

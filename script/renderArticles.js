@@ -1,10 +1,9 @@
 export const renderArticles = (data) => {
   const template = document.createDocumentFragment();
   const news = data.map((item) => {
-    const section = document.createElement('section');
-    section.classList.add('news__card');
+    const card = document.createElement('div');
+    card.classList.add('news__card');
     const img = document.createElement('img');
-    // const img = new Image();
     img.classList.add('news__img');
     img.width = 270;
     img.height = 200;
@@ -54,8 +53,8 @@ export const renderArticles = (data) => {
     
     newsDetails.append(newsDate, newsTime, newsAuthor);
     newsTitle.append(newsLink, newsLinkImg);
-    section.append(img, newsTitle, newsText, newsDetails);
-    return section;
+    card.append(img, newsTitle, newsText, newsDetails);
+    return card;
   });
   template.append(...news)
   return template;

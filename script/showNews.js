@@ -1,11 +1,13 @@
 import {renderArticles} from './renderArticles.js';
 
-export const showNews = (err, data) => {
+export const showNews = (err, data, params) => {
   if (err) {
     console.warn(err, data);
     return;
   }
   const main = document.querySelector('.main');
+  const section = document.createElement('section');
+  section.classList.add('.news');
   const h1 = document.createElement('h1');
   h1.classList.add('main__title');
   h1.textContent = 'Свежие новости';
@@ -21,7 +23,8 @@ export const showNews = (err, data) => {
   container.append(headlines);
   const line = document.createElement('div');
   line.classList.add('line');
-  main.append(h1, line, container);
+  section.append(h1, line, container);
+  main.append(section);
 };
 
 

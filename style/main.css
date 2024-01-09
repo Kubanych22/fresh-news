@@ -74,6 +74,10 @@
   margin-left: auto;
 }
 
+.search {
+  margin-bottom: 50px;
+}
+
 @media (max-width: 768px) {
   .headlines {
     grid-template-columns: auto auto;

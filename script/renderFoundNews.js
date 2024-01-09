@@ -14,13 +14,14 @@ export const renderFoundNews = (query, URL, params) => {
   
   let language = '';
   
-  if (country === 'us' || country === 'gb') {
-    language = 'en';
-  } else if (country === 'de') {
-    language = 'de';
-  } else if (country === 'ru') {
-    language = 'ru';
-  }
+  const countryToLanguage = {
+    'us': 'en',
+    'gb': 'en',
+    'de': 'de',
+    'ru': 'ru'
+  };
+
+  language = countryToLanguage[country] || '';
   
   params = '?q=' + query + '&language=' + language + '&pageSize=8';
   

@@ -2,10 +2,10 @@ import {renderNews} from './renderNews.js';
 import {renderFoundNews} from './renderFoundNews.js';
 import {renderNewsAfterSearch} from './renderNewsAfterSearch.js';
 
-// const URLNews = './headlines.json';
-const URLNews = 'https://newsapi.org/v2/top-headlines';
-// const URLSearch = './search.json';
-const URLSearch = 'https://newsapi.org/v2/everything';
+const URLNews = './headlines.json';
+// const URLNews = 'https://newsapi.org/v2/top-headlines';
+const URLSearch = './search.json';
+// const URLSearch = 'https://newsapi.org/v2/everything';
 
 const form = document.querySelector('.form');
 const params = '?country=ru&pageSize=8';
